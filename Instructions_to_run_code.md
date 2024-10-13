@@ -6,6 +6,10 @@
 
    Spring Boot application code (a main class with @SpringBootApplication annotation).
 
-2. Running the Application from an IDE (e.g., IntelliJ, Eclipse, or Spring Tool Suite)
+2. Create a new PostgreSQL Database in pgAdmin 4
    
-3. Run project as Spring Boot App
+3. Run the Application from an IDE (e.g., IntelliJ, Eclipse, or Spring Tool Suite)
+   
+4. Run project as Spring Boot App
+
+   
