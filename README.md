@@ -21,6 +21,8 @@ Columns:
 
 id (Primary Key)
 name (Category name)
+![image](https://github.com/user-attachments/assets/1e932b90-cd4c-48ba-815c-d723774aea3b)
+
 
 2. Product Table:
 
