@@ -21,6 +21,8 @@ Columns:
 
 id (Primary Key)
 name (Category name)
+
+
 ![image](https://github.com/user-attachments/assets/1e932b90-cd4c-48ba-815c-d723774aea3b)
 
 
@@ -36,6 +38,11 @@ id (Primary Key)
 name (Product name)
 price (Price of the product)
 category_id (Foreign key referencing Category)
+
+
+![image](https://github.com/user-attachments/assets/0aebc22d-cd62-4020-b36c-63695f17ccff)
+
+
 
 Relationships:
 
